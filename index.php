@@ -1,4 +1,6 @@
 <?php
+    $d = 45;
+    echo $d;
     $a = 15;
     echo $a;
     $b = 16;
